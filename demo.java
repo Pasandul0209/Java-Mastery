@@ -20,7 +20,7 @@ class demo{
 			System.out.println("");
 			System.out.println("\t\t\tpayable tax\t\t\t");
 			System.out.println("");
-			//System.out.print("Enter what you wanna do : ");
+			System.out.print("Enter what you wanna do : ");
 			
 	}
 	
