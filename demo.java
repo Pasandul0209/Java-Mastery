@@ -18,7 +18,7 @@ class demo{
 	public static void payabletax(){
 		Scanner input=new Scanner(System.in);
 			System.out.println("");
-			System.out.println("\t\t\tpayable  tax\t\t\t");
+			System.out.println("\t\t\tpayable tax\t\t\t");
 			System.out.println("");
 			System.out.print("Enter what you wanna do : ");
 			
