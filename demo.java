@@ -49,7 +49,7 @@ class demo{
 						break;
 					}
 			default :{
-						System.out.println("\n\nInvalid input! enter valid number...\n");
+						System.out.println("\n\nInvalid input! entervalid number...\n");
 						main(new String[]{""});
 					}
 					
