@@ -26,7 +26,7 @@ class demo{
 	
 	public static void main(String args[]){
 		Scanner input=new Scanner(System.in);
-		System.out.println("Hello User!\n");
+		System.out.println("HelloUser!\n");
 		System.out.println("///\t\t\tTax Calculator\t\t\t\\\\\\");
 		System.out.println("");
 		System.out.println("");
