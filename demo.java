@@ -53,7 +53,6 @@ class demo{
 						main(new String[]{""});
 					}
 					
-
 	}
 }
 }
