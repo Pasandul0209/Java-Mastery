@@ -7,7 +7,6 @@ class Example{
 					System.out.println(y);
 					
 					
-					
 	}
 }
 	
