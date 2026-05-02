@@ -7,7 +7,7 @@ class Example{
 					System.out.println(y);
 					System.out.println();
 					System.out.println();
-					System.out.println();
+					
 	
 	}
 }
