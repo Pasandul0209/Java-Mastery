@@ -6,7 +6,6 @@ class Example{
 					int y=Math.abs(-2);
 					System.out.println(y);
 					
-					
 	}
 }
 	
