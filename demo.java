@@ -6,7 +6,7 @@ class demo{
 			System.out.println("\t\t\tWithhodling tax\t\t\t");
 			System.out.println("");
 			//int x2=input.nextInt();
-			System.out.println("[1] calculate rent tax ");
+			System.out.println("[1] calculate rent tax  ");
 			System.out.println("[2] calculate bank interest tax");
 			System.out.println("[3] calculate dividend tax");
 			System.out.print("Enter what you wanna do : ");
