@@ -8,7 +8,7 @@ class demo{
 			//int x2=input.nextInt();
 			System.out.println("[1] calculate rent tax ");
 			System.out.println("[2] calculate bank interest tax");
-			System.out.println("[3] calculate dividend tax");
+			System.out.println("[3] calculate   dividend tax");
 			System.out.print("Enter what you wanna do : ");
 			int x2=input.nextInt();
 			int x5= x2;
