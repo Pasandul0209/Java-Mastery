@@ -1,10 +1,16 @@
-import java.util.*;
 class Example{
 	public static void main(String args[]){
-				Scanner input = new Scanner(System.in);
-					//int x =-2;
-					int y=Math.abs(-2);
-					System.out.println(y);
+		System.out.println("main");
+		int a =0 ;
+		int b= 1;
+		a= a+b;
+		b= a+b;
+		//mymethod(a);
+		System.out.println(a+","+b);
 	}
+	//public static void fib(){
+	//	if ()
+	//	System.out.print(a);
+	//	fib();
+	//}
 }
-	
