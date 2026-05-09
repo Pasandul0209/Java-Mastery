@@ -1,16 +1,13 @@
 class Example{
 	public static void main(String args[]){
-		System.out.println("main");
-		int a =0 ;
-		int b= 1;
-		a= a+b;
-		b= a+b;
-		//mymethod(a);
-		System.out.println(a+","+b);
+		myMethod(10);
 	}
-	//public static void fib(){
-	//	if ()
-	//	System.out.print(a);
-	//	fib();
-	//}
+	static int myMethod(int n){
+		if(n==0){
+			return n;
+		}
+		myMethod(n-1);
+		System.out.println("myMethod() - n: "+n);
+		return 1;
+	}
 }
