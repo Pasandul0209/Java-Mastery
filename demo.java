@@ -22,7 +22,7 @@ class demo {
 	public static void main(String[] args) {
 		int[] arr = {1,5,78,6,51,2,8,39,54};
 	
-		System.out.println("Index of 51:  " + indexOf(arr, 51));
+		System.out.println("Index of 51: " + indexOf(arr, 51));
 		System.out.println("Max : " + max(arr));
     }
 }
