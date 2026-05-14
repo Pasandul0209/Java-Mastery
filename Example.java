@@ -7,7 +7,7 @@ class Example{
 			return n;
 		}
 		myMethod(n-1);
-		System.out.println("myMethod() -n:"+n);
+		System.out.println("myMethod() - n:"+n);
 		return 1;
 	}
 }
