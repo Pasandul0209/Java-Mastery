@@ -6,7 +6,7 @@ class demo {
 		if( arr[i]>max){
 			max =arr[i];
 		}
-		//stem.out.println(max);
+		//tem.out.println(max);
 		return max;
 	}
 	
