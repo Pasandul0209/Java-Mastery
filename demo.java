@@ -6,7 +6,7 @@ class demo {
 		if( arr[i]>max){
 			max =arr[i];
 		}
-		//e.out.println(max);
+		//eout.println(max);
 		return max;
 	}
 	
