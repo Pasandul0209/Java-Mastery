@@ -1,31 +1,19 @@
-class demo {
-	
-	static int max(int[] arr) {
-		int max =0;
-		for(int i=0;i<arr.length;i++)
-		if( arr[i]>max){
-			max =arr[i];
-		}
-		//System.out.println(max);
-		return max;
-	}
-	
-	static int indexOf(int[] arr, int value){
-		for(int i=0; i<arr.length;i++){
-			if(arr[i] == value) {
-				return i;
+import java.util.*;
+class demo{
+	private static void main(String args[]){
+		Scanner input = new Scanner(System.in);
+			System.out.println("Enetr Customer ID (Enter -1 to stop) : ");
+			String c_id= input.nextLine();
+			
+			System.out.println("Enter Bill value : ");
+			int x2 = input.nextInt();
+			
+			if(c_id.charAt(0) == -1){
+				System.exit(0);
+				if(c_id.charAt(3)!=0 & c_id.charAt(3)>0);
+				System.out.println("Enetr Customer ID (Enter -1 to stop) : " + c_id);
+				System.out.println("Enter Bill value : "+x2);
 			}
-		}
-		return -1; // default case no value found
+	
 	}
-	
-	public static void main(String[] args) {
-		int[] arr = {1,5,78,6,51,2,8,39,54};
-	
-		System.out.println("Index of 51: " + indexOf(arr, 51));
-		System.out.println("Max : " + max(arr));
-    }
 }
-
-
-
