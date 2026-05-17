@@ -6,7 +6,6 @@ class demo{
 			String c_id= input.nextLine();
 			System.out.println("Enter Bill value : ");
 			int x2 = input.nextInt();
-			
 			if(c_id.charAt(0) == -1){
 				System.exit(0);
 				if(c_id.charAt(3)!=0 & c_id.charAt(3)>0);
